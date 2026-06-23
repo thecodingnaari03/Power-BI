@@ -12,3 +12,5 @@
 11. Exploring Power BI Service
 12. Connecting Data Source to Cloud
 13. Data Security on the Cloud
+
+## Just completed my 1st module 
